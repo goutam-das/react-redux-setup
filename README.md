@@ -97,3 +97,5 @@ Rewrite `index.js` file
         module.hot.accept();
     }
 ```
+
+### Implementation Redux
