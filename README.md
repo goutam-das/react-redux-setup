@@ -2,12 +2,12 @@
 
 ## React Setup Using Parcel and Babel
 
-Install bellow packages dev dependenies
+Install below packages dev dependenies
 
 ```
     npm i -D parcel-bundler @babel/core @babel/preset-env @babel/preset-react @babel/plugin-proposal-class-properties    
 ```
-Install bellow packages dependencies
+Install below packages dependencies
 
 ```
     npm i react react-dom
