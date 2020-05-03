@@ -63,7 +63,7 @@ Then write script in `package.json` file
     {
         ...
         "scripts": {
-            "start": "parcel ./src/index.html",
+            "start": "parcel ./src/index.html --open",
             "build": "parcel build ./src/index.html"
         }
         ...
